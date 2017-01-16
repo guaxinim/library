@@ -1,6 +1,5 @@
 package com.guaxinim.library.api;
 
-import com.guaxinim.library.domain.Object;
 import com.guaxinim.library.service.ObjectService;
 
 import javax.ejb.EJB;

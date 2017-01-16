@@ -1,6 +1,5 @@
 package com.guaxinim.library.service;
 
-import com.guaxinim.library.domain.Action;
 import com.guaxinim.library.persistence.Neo4jGenericService;
 
 import javax.ejb.Local;
